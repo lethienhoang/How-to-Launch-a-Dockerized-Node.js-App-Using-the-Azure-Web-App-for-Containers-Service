@@ -1,0 +1,23 @@
+{
+  "name": "How-to-deploy-a-Node.js-application-to-Amazon-Web-Services-using-Docker",
+  "version": "1.0.0",
+  "description": "Table of Contents  1. Introduction 2. Prerequisites 3. A quick primer on Docker and AWS 4. What we’ll be deploying 5. Creating a Dockerfile 6. Building a docker image 7. Running a docker container 8. Creating the Registry (ECR) and uploading the app image to it 9. Creating a new task definition 10. Creating a cluster 11. Creating a service to run it 12. Conclusion",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lethienhoang/How-to-deploy-a-Node.js-application-to-Amazon-Web-Services-using-Docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lethienhoang/How-to-deploy-a-Node.js-application-to-Amazon-Web-Services-using-Docker/issues"
+  },
+  "homepage": "https://github.com/lethienhoang/How-to-deploy-a-Node.js-application-to-Amazon-Web-Services-using-Docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
