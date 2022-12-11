@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/lethienhoang/How-to-deploy-a-Node.js-application-to-Amazon-Web-Services-using-Docker#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
